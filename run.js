@@ -26,7 +26,7 @@ function getState(args) {
             return State.annoy;
         }
         default: {
-            console.log("Created by nautilushell for educational purpouses only\n");
+            console.log("Created by julianallchin for educational purpouses only\n");
             console.log("Arguments");
             console.log("\t--cheat: will attempt to find the correct answer")
             console.log("\t--kill: will make the game unplayable")

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "audit for kahoot games",
   "main": "run.js",
-  "author": "",
+  "author": "julianallchin",
   "license": "ISC",
   "dependencies": {
     "core-js": "^3.2.1",
