@@ -42,8 +42,10 @@ function getState(args) {
 function restart() {
     var name = readline.question("Enter Name ");
 
-    if (state = State.cheat) {
+    if (state = State.annoy) {
         connect(name, true);
+    } else {
+        connect(name, false);
     }
 }
 

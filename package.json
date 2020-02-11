@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "audit for kahoot games",
   "main": "run.js",
-  "scripts" : {
+  "scripts": {
     "cheat": "node run.js --cheat",
     "kill": "node run.js --kill",
     "annoy": "node run.js --annoy"
   },
-  "author": "julianallchin",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "core-js": "^3.2.1",
