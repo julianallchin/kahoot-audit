@@ -1,0 +1,14 @@
+{
+  "name": "kahoot-audit",
+  "version": "1.0.0",
+  "description": "audit for kahoot games",
+  "main": "run.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.2.1",
+    "cors-anywhere": "^0.4.1",
+    "kahoot-api": "^0.10.2",
+    "readline-sync": "^1.4.10"
+  }
+}
