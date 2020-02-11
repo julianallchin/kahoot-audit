@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "audit for kahoot games",
   "main": "run.js",
+  "scripts" : {
+    "cheat": "node run.js --cheat",
+    "kill": "node run.js --kill",
+    "annoy": "node run.js --annoy"
+  },
   "author": "julianallchin",
   "license": "ISC",
   "dependencies": {
