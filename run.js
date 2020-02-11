@@ -54,7 +54,7 @@ function connect(name, bypass = false) {
     }
 
     session.openSocket().then(socket => {
-        const player = new Adapters.Player(socket); //Create player class
+        const player = new Adapters.Player(socket);
 
         player.join(name).then(() => {
             player.on('message', (message) => {
