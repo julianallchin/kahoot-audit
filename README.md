@@ -1,4 +1,4 @@
-# kahoot-audit
+# kahoot-audit (patched)
 
 A simple use of the kahoot-api as an educational demonstration of socket auditing. Created for educational purpouses only. I am not responsible for the mistakes you make while using this.
 
